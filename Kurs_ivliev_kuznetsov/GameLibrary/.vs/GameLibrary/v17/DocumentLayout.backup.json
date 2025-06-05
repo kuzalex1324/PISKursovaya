@@ -1,0 +1,222 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Den\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\GameLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3171A645-FD7A-4E09-8F80-D443B69FC566}|GameLibrary\\GameLibraryDA.csproj|c:\\users\\den\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\gamelibrary\\gamelibrary\\forms\\shopform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3171A645-FD7A-4E09-8F80-D443B69FC566}|GameLibrary\\GameLibraryDA.csproj|solutionrelative:gamelibrary\\forms\\shopform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3171A645-FD7A-4E09-8F80-D443B69FC566}|GameLibrary\\GameLibraryDA.csproj|C:\\Users\\Den\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\GameLibrary\\gamelibrary\\forms\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3171A645-FD7A-4E09-8F80-D443B69FC566}|GameLibrary\\GameLibraryDA.csproj|solutionrelative:gamelibrary\\forms\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3171A645-FD7A-4E09-8F80-D443B69FC566}|GameLibrary\\GameLibraryDA.csproj|C:\\Users\\Den\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\GameLibrary\\gamelibrary\\forms\\reductform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3171A645-FD7A-4E09-8F80-D443B69FC566}|GameLibrary\\GameLibraryDA.csproj|solutionrelative:gamelibrary\\forms\\reductform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3171A645-FD7A-4E09-8F80-D443B69FC566}|GameLibrary\\GameLibraryDA.csproj|C:\\Users\\Den\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\GameLibrary\\gamelibrary\\forms\\profileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3171A645-FD7A-4E09-8F80-D443B69FC566}|GameLibrary\\GameLibraryDA.csproj|solutionrelative:gamelibrary\\forms\\profileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3171A645-FD7A-4E09-8F80-D443B69FC566}|GameLibrary\\GameLibraryDA.csproj|C:\\Users\\Den\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\GameLibrary\\gamelibrary\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3171A645-FD7A-4E09-8F80-D443B69FC566}|GameLibrary\\GameLibraryDA.csproj|solutionrelative:gamelibrary\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3171A645-FD7A-4E09-8F80-D443B69FC566}|GameLibrary\\GameLibraryDA.csproj|C:\\Users\\Den\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\GameLibrary\\gamelibrary\\forms\\libraryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3171A645-FD7A-4E09-8F80-D443B69FC566}|GameLibrary\\GameLibraryDA.csproj|solutionrelative:gamelibrary\\forms\\libraryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3171A645-FD7A-4E09-8F80-D443B69FC566}|GameLibrary\\GameLibraryDA.csproj|C:\\Users\\Den\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\GameLibrary\\gamelibrary\\forms\\feedbackform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3171A645-FD7A-4E09-8F80-D443B69FC566}|GameLibrary\\GameLibraryDA.csproj|solutionrelative:gamelibrary\\forms\\feedbackform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3171A645-FD7A-4E09-8F80-D443B69FC566}|GameLibrary\\GameLibraryDA.csproj|C:\\Users\\Den\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\GameLibrary\\gamelibrary\\forms\\developerpanelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3171A645-FD7A-4E09-8F80-D443B69FC566}|GameLibrary\\GameLibraryDA.csproj|solutionrelative:gamelibrary\\forms\\developerpanelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3171A645-FD7A-4E09-8F80-D443B69FC566}|GameLibrary\\GameLibraryDA.csproj|C:\\Users\\Den\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\GameLibrary\\gamelibrary\\forms\\administrationpanelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3171A645-FD7A-4E09-8F80-D443B69FC566}|GameLibrary\\GameLibraryDA.csproj|solutionrelative:gamelibrary\\forms\\administrationpanelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3171A645-FD7A-4E09-8F80-D443B69FC566}|GameLibrary\\GameLibraryDA.csproj|c:\\users\\den\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\gamelibrary\\gamelibrary\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3171A645-FD7A-4E09-8F80-D443B69FC566}|GameLibrary\\GameLibraryDA.csproj|solutionrelative:gamelibrary\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3171A645-FD7A-4E09-8F80-D443B69FC566}|GameLibrary\\GameLibraryDA.csproj|c:\\users\\den\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\gamelibrary\\gamelibrary\\forms\\administrationpanelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3171A645-FD7A-4E09-8F80-D443B69FC566}|GameLibrary\\GameLibraryDA.csproj|solutionrelative:gamelibrary\\forms\\administrationpanelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3171A645-FD7A-4E09-8F80-D443B69FC566}|GameLibrary\\GameLibraryDA.csproj|c:\\users\\den\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\gamelibrary\\gamelibrary\\forms\\shopform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3171A645-FD7A-4E09-8F80-D443B69FC566}|GameLibrary\\GameLibraryDA.csproj|solutionrelative:gamelibrary\\forms\\shopform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3171A645-FD7A-4E09-8F80-D443B69FC566}|GameLibrary\\GameLibraryDA.csproj|c:\\users\\den\\desktop\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\gamelibrary\\gamelibrary\\forms\\libraryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3171A645-FD7A-4E09-8F80-D443B69FC566}|GameLibrary\\GameLibraryDA.csproj|solutionrelative:gamelibrary\\forms\\libraryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProfileForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Den\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\GameLibrary\\GameLibrary\\Forms\\ProfileForm.cs",
+              "RelativeDocumentMoniker": "GameLibrary\\Forms\\ProfileForm.cs",
+              "ToolTip": "C:\\Users\\Den\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\GameLibrary\\GameLibrary\\Forms\\ProfileForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "GameLibrary\\Forms\\ProfileForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T21:20:13.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FeedbackForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Den\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\GameLibrary\\GameLibrary\\Forms\\FeedbackForm.cs",
+              "RelativeDocumentMoniker": "GameLibrary\\Forms\\FeedbackForm.cs",
+              "ToolTip": "C:\\Users\\Den\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\GameLibrary\\GameLibrary\\Forms\\FeedbackForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "GameLibrary\\Forms\\FeedbackForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T21:19:48.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LibraryForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Den\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\GameLibrary\\GameLibrary\\Forms\\LibraryForm.cs",
+              "RelativeDocumentMoniker": "GameLibrary\\Forms\\LibraryForm.cs",
+              "ToolTip": "C:\\Users\\Den\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\GameLibrary\\GameLibrary\\Forms\\LibraryForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "GameLibrary\\Forms\\LibraryForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T20:45:22.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShopForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Den\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\GameLibrary\\GameLibrary\\Forms\\ShopForm.cs",
+              "RelativeDocumentMoniker": "GameLibrary\\Forms\\ShopForm.cs",
+              "ToolTip": "C:\\Users\\Den\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\GameLibrary\\GameLibrary\\Forms\\ShopForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "GameLibrary\\Forms\\ShopForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T20:40:45.067Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReductForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Den\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\GameLibrary\\GameLibrary\\Forms\\ReductForm.cs",
+              "RelativeDocumentMoniker": "GameLibrary\\Forms\\ReductForm.cs",
+              "ToolTip": "C:\\Users\\Den\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\GameLibrary\\GameLibrary\\Forms\\ReductForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "GameLibrary\\Forms\\ReductForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T21:20:25.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegistrationForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Den\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\GameLibrary\\GameLibrary\\Forms\\RegistrationForm.cs",
+              "RelativeDocumentMoniker": "GameLibrary\\Forms\\RegistrationForm.cs",
+              "ToolTip": "C:\\Users\\Den\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\GameLibrary\\GameLibrary\\Forms\\RegistrationForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "GameLibrary\\Forms\\RegistrationForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T21:20:34.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DeveloperPanelForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Den\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\GameLibrary\\GameLibrary\\Forms\\DeveloperPanelForm.cs",
+              "RelativeDocumentMoniker": "GameLibrary\\Forms\\DeveloperPanelForm.cs",
+              "ToolTip": "C:\\Users\\Den\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\GameLibrary\\GameLibrary\\Forms\\DeveloperPanelForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "GameLibrary\\Forms\\DeveloperPanelForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T21:19:37.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ShopForm.cs",
+              "DocumentMoniker": "C:\\Users\\Den\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\GameLibrary\\GameLibrary\\Forms\\ShopForm.cs",
+              "RelativeDocumentMoniker": "GameLibrary\\Forms\\ShopForm.cs",
+              "ToolTip": "C:\\Users\\Den\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\GameLibrary\\GameLibrary\\Forms\\ShopForm.cs",
+              "RelativeToolTip": "GameLibrary\\Forms\\ShopForm.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAADwv14AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T20:40:48.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\Den\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\GameLibrary\\GameLibrary\\Forms\\LoginForm.cs",
+              "RelativeDocumentMoniker": "GameLibrary\\Forms\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Den\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\GameLibrary\\GameLibrary\\Forms\\LoginForm.cs",
+              "RelativeToolTip": "GameLibrary\\Forms\\LoginForm.cs",
+              "ViewState": "AgIAAKMBAAAAAAAAAADwv6EBAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T20:25:42.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Den\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\GameLibrary\\GameLibrary\\Forms\\LoginForm.cs",
+              "RelativeDocumentMoniker": "GameLibrary\\Forms\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Den\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\GameLibrary\\GameLibrary\\Forms\\LoginForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "GameLibrary\\Forms\\LoginForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T20:25:38.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdministrationPanelForm.cs",
+              "DocumentMoniker": "C:\\Users\\Den\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\GameLibrary\\GameLibrary\\Forms\\AdministrationPanelForm.cs",
+              "RelativeDocumentMoniker": "GameLibrary\\Forms\\AdministrationPanelForm.cs",
+              "ToolTip": "C:\\Users\\Den\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\GameLibrary\\GameLibrary\\Forms\\AdministrationPanelForm.cs",
+              "RelativeToolTip": "GameLibrary\\Forms\\AdministrationPanelForm.cs",
+              "ViewState": "AgIAANIAAAAAAAAAAAArwOUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T20:25:16.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdministrationPanelForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Den\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\GameLibrary\\GameLibrary\\Forms\\AdministrationPanelForm.cs",
+              "RelativeDocumentMoniker": "GameLibrary\\Forms\\AdministrationPanelForm.cs",
+              "ToolTip": "C:\\Users\\Den\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\GameLibrary\\GameLibrary\\Forms\\AdministrationPanelForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "GameLibrary\\Forms\\AdministrationPanelForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T20:25:01.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LibraryForm.cs",
+              "DocumentMoniker": "C:\\Users\\Den\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\GameLibrary\\GameLibrary\\Forms\\LibraryForm.cs",
+              "RelativeDocumentMoniker": "GameLibrary\\Forms\\LibraryForm.cs",
+              "ToolTip": "C:\\Users\\Den\\Desktop\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\GameLibrary\\GameLibrary\\Forms\\LibraryForm.cs",
+              "RelativeToolTip": "GameLibrary\\Forms\\LibraryForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T20:45:28.606Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
